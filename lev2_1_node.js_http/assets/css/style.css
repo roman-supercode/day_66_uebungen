@@ -1,0 +1,26 @@
+body {
+    background-color: #fff;
+    animation: random 20s infinite;
+}
+
+@keyframes random {
+    15% {
+        background-color: red;
+    }
+
+    30% {
+        background-color: rgb(255, 255, 0);
+    }
+
+    45% {
+        background-color: rgb(138, 247, 138);
+    }
+
+    60% {
+        background-color: rgb(152, 152, 247);
+    }
+
+    75% {
+        background-color: white;
+    }
+}
