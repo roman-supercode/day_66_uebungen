@@ -1,9 +1,12 @@
 import http from 'http';
 import fs from 'fs';
 // Erstelle dir mit Hilfe von Node.js einen einfachen Server
+
 // Dieser sollte aus mindestens vier verschiedenen Seiten bestehen
 // zB home, about, contact, faq
+// zusätzlich wollen wir noch eine kleine CSS Datei übermitteln
 // Stelle sicher, dass alle Seiten erreichbar sind
+
 
 
 
